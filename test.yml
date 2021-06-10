@@ -6,5 +6,5 @@
           path: /testdir
           owner: root
           group: root
-          state: directory
+          state: absent
           mode: 0755
