@@ -6,5 +6,5 @@
           path: /home/vagrant/testdir
           owner: vagrant
           group: vagrant
-          state: present1
+          state: directory
           mode: 0755
